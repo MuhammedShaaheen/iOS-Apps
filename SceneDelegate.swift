@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  User_Login
+//  Login CoreData
 //
-//  Created by TRAINING 6 on 15/05/22.
+//  Created by AKASH on 15/05/22.
 //
 
 import UIKit
